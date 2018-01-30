@@ -1,0 +1,5 @@
+# Later install command: pip install -r requirements.txt
+
+pandas
+numpy
+flask-sockets>=0.2.1 
