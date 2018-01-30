@@ -30,3 +30,6 @@ My Project/
 For more about [Testing Your Code](http://docs.python-guide.org/en/latest/writing/tests/)
 
 For more about [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/)
+
+For environment installation: `conda create --name sample python=3.6`
+
